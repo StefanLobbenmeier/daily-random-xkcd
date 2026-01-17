@@ -6,23 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 13 Sep 2021 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Mar 2017 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Vaccine Research</title>
-      <link>https://xkcd.com/2515/</link>
+      <title>[1817] Incognito Mode</title>
+      <link>https://xkcd.com/1817/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2515/">#2515</a>] Honestly feel a little sheepish about the amount of time and effort I spent confirming "yes, the vaccine helps protect people from getting sick and dying" but I guess everyone needs a hobby.</p>
-            <a href="https://imgs.xkcd.com/comics/vaccine_research.png">
-              <img src="https://imgs.xkcd.com/comics/vaccine_research.png" alt="Honestly feel a little sheepish about the amount of time and effort I spent confirming "yes, the vaccine helps protect people from getting sick and dying" but I guess everyone needs a hobby." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/incognito_mode.png">
+              <img src="https://imgs.xkcd.com/comics/incognito_mode.png" alt="They're really the worst tech support team. And their solutions are always the same. "This OS X update broke something." "LET'S INFILTRATE APPLE BY MORPHING APPLES!"" style="height: auto;" />
             </a>
+            <p>They're really the worst tech support team. And their solutions are always the same. "This OS X update broke something." "LET'S INFILTRATE APPLE BY MORPHING APPLES!"</p>
+            <p><a href="https://explainxkcd.com/1817/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2515/</guid>
-      <pubDate>Mon, 13 Sep 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1817/</guid>
+      <pubDate>Wed, 29 Mar 2017 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
