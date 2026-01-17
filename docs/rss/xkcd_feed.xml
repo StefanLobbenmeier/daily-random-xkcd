@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 30 Aug 2010 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Sep 2021 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Exoplanets</title>
-      <link>https://xkcd.com/786/</link>
+      <title>Vaccine Research</title>
+      <link>https://xkcd.com/2515/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/786/">#786</a>] I'm just worried that we'll all leave and you won't get to come along!</p>
-            <a href="https://imgs.xkcd.com/comics/exoplanets_2010.png">
-              <img src="https://imgs.xkcd.com/comics/exoplanets_2010.png" alt="I'm just worried that we'll all leave and you won't get to come along!" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2515/">#2515</a>] Honestly feel a little sheepish about the amount of time and effort I spent confirming "yes, the vaccine helps protect people from getting sick and dying" but I guess everyone needs a hobby.</p>
+            <a href="https://imgs.xkcd.com/comics/vaccine_research.png">
+              <img src="https://imgs.xkcd.com/comics/vaccine_research.png" alt="Honestly feel a little sheepish about the amount of time and effort I spent confirming "yes, the vaccine helps protect people from getting sick and dying" but I guess everyone needs a hobby." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/786/</guid>
-      <pubDate>Mon, 30 Aug 2010 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2515/</guid>
+      <pubDate>Mon, 13 Sep 2021 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
