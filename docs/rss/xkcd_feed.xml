@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 29 Mar 2017 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2020 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1817] Incognito Mode</title>
-      <link>https://xkcd.com/1817/</link>
+      <title>[2287] Pathogen Resistance</title>
+      <link>https://xkcd.com/2287/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/incognito_mode.png">
-              <img src="https://imgs.xkcd.com/comics/incognito_mode.png" alt="They're really the worst tech support team. And their solutions are always the same. "This OS X update broke something." "LET'S INFILTRATE APPLE BY MORPHING APPLES!"" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/pathogen_resistance.png">
+              <img src="https://imgs.xkcd.com/comics/pathogen_resistance.png" alt="We're not trapped in here with the coronavirus. The coronavirus is trapped in here with us." style="height: auto;" />
             </a>
-            <p>They're really the worst tech support team. And their solutions are always the same. "This OS X update broke something." "LET'S INFILTRATE APPLE BY MORPHING APPLES!"</p>
-            <p><a href="https://explainxkcd.com/1817/">Explanation</a></p>
+            <p>We're not trapped in here with the coronavirus. The coronavirus is trapped in here with us.</p>
+            <p><a href="https://explainxkcd.com/2287/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1817/</guid>
-      <pubDate>Wed, 29 Mar 2017 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2287/</guid>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
