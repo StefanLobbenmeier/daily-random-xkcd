@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 22 Jan 2016 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2009 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1633] Possible Undiscovered Planets</title>
-      <link>https://xkcd.com/1633/</link>
+      <title>[621] Superlative</title>
+      <link>https://xkcd.com/621/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/possible_undiscovered_planets.png">
-              <img src="https://imgs.xkcd.com/comics/possible_undiscovered_planets.png" alt="Superman lies near the bird/plane boundary over a range of distances, which explains the confusion." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/superlative.png">
+              <img src="https://imgs.xkcd.com/comics/superlative.png" alt="Stay while I recount the crazy TF2 kill I managed yesterday, my friends." style="height: auto;" />
             </a>
-            <p>Superman lies near the bird/plane boundary over a range of distances, which explains the confusion.</p>
-            <p><a href="https://explainxkcd.com/1633/">Explanation</a></p>
+            <p>Stay while I recount the crazy TF2 kill I managed yesterday, my friends.</p>
+            <p><a href="https://explainxkcd.com/621/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1633/</guid>
-      <pubDate>Fri, 22 Jan 2016 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/621/</guid>
+      <pubDate>Mon, 10 Aug 2009 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
