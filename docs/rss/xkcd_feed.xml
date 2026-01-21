@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 10 Aug 2009 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jun 2023 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[621] Superlative</title>
-      <link>https://xkcd.com/621/</link>
+      <title>[2786] UFO Evidence</title>
+      <link>https://xkcd.com/2786/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/superlative.png">
-              <img src="https://imgs.xkcd.com/comics/superlative.png" alt="Stay while I recount the crazy TF2 kill I managed yesterday, my friends." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/ufo_evidence.png">
+              <img src="https://imgs.xkcd.com/comics/ufo_evidence.png" alt="[Decades in the future] "Well, the good news is that we've received definitive communication from aliens. The bad news is that they're asking about Cats (2019)."" style="height: auto;" />
             </a>
-            <p>Stay while I recount the crazy TF2 kill I managed yesterday, my friends.</p>
-            <p><a href="https://explainxkcd.com/621/">Explanation</a></p>
+            <p>[Decades in the future] "Well, the good news is that we've received definitive communication from aliens. The bad news is that they're asking about Cats (2019)."</p>
+            <p><a href="https://explainxkcd.com/2786/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/621/</guid>
-      <pubDate>Mon, 10 Aug 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2786/</guid>
+      <pubDate>Wed, 07 Jun 2023 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
