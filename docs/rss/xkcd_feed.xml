@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 15 Sep 2017 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Mar 2011 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1890] What to Bring</title>
-      <link>https://xkcd.com/1890/</link>
+      <title>[867] Herpetology</title>
+      <link>https://xkcd.com/867/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/what_to_bring.png">
-              <img src="https://imgs.xkcd.com/comics/what_to_bring.png" alt="I always figured you should never bring a gun to a gun fight because then you'll be part of a gun fight." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/herpetology.png">
+              <img src="https://imgs.xkcd.com/comics/herpetology.png" alt="Birds are Aves, which is part of the clade Theropoda, which is in Saurischia, which is in Dinosauria. Those birds outside our windows are dinosaurs. We can clear out the rest of our brains because we now have the best fact." style="height: auto;" />
             </a>
-            <p>I always figured you should never bring a gun to a gun fight because then you'll be part of a gun fight.</p>
-            <p><a href="https://explainxkcd.com/1890/">Explanation</a></p>
+            <p>Birds are Aves, which is part of the clade Theropoda, which is in Saurischia, which is in Dinosauria. Those birds outside our windows are dinosaurs. We can clear out the rest of our brains because we now have the best fact.</p>
+            <p><a href="https://explainxkcd.com/867/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1890/</guid>
-      <pubDate>Fri, 15 Sep 2017 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/867/</guid>
+      <pubDate>Wed, 02 Mar 2011 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
