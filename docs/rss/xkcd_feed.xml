@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Thu, 12 Jan 2006 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Dec 2016 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[48] Found</title>
-      <link>https://xkcd.com/48/</link>
+      <title>[1773] Negativity</title>
+      <link>https://xkcd.com/1773/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/found.jpg">
-              <img src="https://imgs.xkcd.com/comics/found.jpg" alt="No more, no less" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/negativity.png">
+              <img src="https://imgs.xkcd.com/comics/negativity.png" alt="[Google search] how do I block my lawn" style="height: auto;" />
             </a>
-            <p>No more, no less</p>
-            <p><a href="https://explainxkcd.com/48/">Explanation</a></p>
+            <p>[Google search] how do I block my lawn</p>
+            <p><a href="https://explainxkcd.com/1773/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/48/</guid>
-      <pubDate>Thu, 12 Jan 2006 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1773/</guid>
+      <pubDate>Fri, 16 Dec 2016 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
