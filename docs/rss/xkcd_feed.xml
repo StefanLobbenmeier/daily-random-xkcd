@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 30 Sep 2020 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Nov 2012 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2366] Amelia's Farm Fresh Cookies</title>
-      <link>https://xkcd.com/2366/</link>
+      <title>[1133] Up Goer Five</title>
+      <link>https://xkcd.com/1133/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/amelias_farm_fresh_cookies.png">
-              <img src="https://imgs.xkcd.com/comics/amelias_farm_fresh_cookies.png" alt="I told her I'd take her address off the packaging if she'd stop submitting anonymous food safety complaints about my bakery to the health department, but she sent me a note that said NO DEAL along with an extra large batch of cookies." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/up_goer_five.png">
+              <img src="https://imgs.xkcd.com/comics/up_goer_five.png" alt="Another thing that is a bad problem is if you're flying toward space and the parts start to fall off your space car in the wrong order. If that happens, it means you won't go to space today, or maybe ever." style="height: auto;" />
             </a>
-            <p>I told her I'd take her address off the packaging if she'd stop submitting anonymous food safety complaints about my bakery to the health department, but she sent me a note that said NO DEAL along with an extra large batch of cookies.</p>
-            <p><a href="https://explainxkcd.com/2366/">Explanation</a></p>
+            <p>Another thing that is a bad problem is if you're flying toward space and the parts start to fall off your space car in the wrong order. If that happens, it means you won't go to space today, or maybe ever.</p>
+            <p><a href="https://explainxkcd.com/1133/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2366/</guid>
-      <pubDate>Wed, 30 Sep 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1133/</guid>
+      <pubDate>Mon, 12 Nov 2012 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
