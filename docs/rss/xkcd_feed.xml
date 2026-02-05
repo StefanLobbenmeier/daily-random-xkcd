@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 24 Feb 2012 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Sep 2022 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1021] Business Plan</title>
-      <link>https://xkcd.com/1021/</link>
+      <title>[2672] What If? 2 Flowchart</title>
+      <link>https://xkcd.com/2672/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/business_plan.png">
-              <img src="https://imgs.xkcd.com/comics/business_plan.png" alt="The investor elevator pitch is "Wheeeeeeee! Elevators are fun!"" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/what_if_2_flowchart.png">
+              <img src="https://imgs.xkcd.com/comics/what_if_2_flowchart.png" alt="Don't worry, the dogs are all fine. That's actually kind of the problem." style="height: auto;" />
             </a>
-            <p>The investor elevator pitch is "Wheeeeeeee! Elevators are fun!"</p>
-            <p><a href="https://explainxkcd.com/1021/">Explanation</a></p>
+            <p>Don't worry, the dogs are all fine. That's actually kind of the problem.</p>
+            <p><a href="https://explainxkcd.com/2672/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1021/</guid>
-      <pubDate>Fri, 24 Feb 2012 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2672/</guid>
+      <pubDate>Tue, 13 Sep 2022 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
