@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Aug 2017 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[3023] The Maritime Approximation</title>
-      <link>https://xkcd.com/3023/</link>
+      <title>[1874] Geologic Faults</title>
+      <link>https://xkcd.com/1874/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/the_maritime_approximation.png">
-              <img src="https://imgs.xkcd.com/comics/the_maritime_approximation.png" alt="It works because a nautical mile is based on a degree of latitude, and the Earth (e) is a circle." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/geologic_faults.png">
+              <img src="https://imgs.xkcd.com/comics/geologic_faults.png" alt="I live on a torn-bag-of-potato-chips-where-the-tear-is-rapidly-growing fault, which is terrifying." style="height: auto;" />
             </a>
-            <p>It works because a nautical mile is based on a degree of latitude, and the Earth (e) is a circle.</p>
-            <p><a href="https://explainxkcd.com/3023/">Explanation</a></p>
+            <p>I live on a torn-bag-of-potato-chips-where-the-tear-is-rapidly-growing fault, which is terrifying.</p>
+            <p><a href="https://explainxkcd.com/1874/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/3023/</guid>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1874/</guid>
+      <pubDate>Wed, 09 Aug 2017 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
