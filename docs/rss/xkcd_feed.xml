@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 09 Aug 2017 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Aug 2023 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1874] Geologic Faults</title>
-      <link>https://xkcd.com/1874/</link>
+      <title>[2812] Solar Panel Placement</title>
+      <link>https://xkcd.com/2812/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/geologic_faults.png">
-              <img src="https://imgs.xkcd.com/comics/geologic_faults.png" alt="I live on a torn-bag-of-potato-chips-where-the-tear-is-rapidly-growing fault, which is terrifying." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/solar_panel_placement.png">
+              <img src="https://imgs.xkcd.com/comics/solar_panel_placement.png" alt="Getting the utility people to run transmission lines to Earth is expensive, but it will pay for itself in no time." style="height: auto;" />
             </a>
-            <p>I live on a torn-bag-of-potato-chips-where-the-tear-is-rapidly-growing fault, which is terrifying.</p>
-            <p><a href="https://explainxkcd.com/1874/">Explanation</a></p>
+            <p>Getting the utility people to run transmission lines to Earth is expensive, but it will pay for itself in no time.</p>
+            <p><a href="https://explainxkcd.com/2812/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1874/</guid>
-      <pubDate>Wed, 09 Aug 2017 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2812/</guid>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
