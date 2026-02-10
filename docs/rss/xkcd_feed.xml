@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 07 Aug 2023 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Mar 2018 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2812] Solar Panel Placement</title>
-      <link>https://xkcd.com/2812/</link>
+      <title>[1969] Not Available</title>
+      <link>https://xkcd.com/1969/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/solar_panel_placement.png">
-              <img src="https://imgs.xkcd.com/comics/solar_panel_placement.png" alt="Getting the utility people to run transmission lines to Earth is expensive, but it will pay for itself in no time." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/not_available.png">
+              <img src="https://imgs.xkcd.com/comics/not_available.png" alt="If my country ever picks a new national flag, this is on my shortlist for designs to argue for, but I think in the end I'll go with the green puzzle piece or broken image thumbnail." style="height: auto;" />
             </a>
-            <p>Getting the utility people to run transmission lines to Earth is expensive, but it will pay for itself in no time.</p>
-            <p><a href="https://explainxkcd.com/2812/">Explanation</a></p>
+            <p>If my country ever picks a new national flag, this is on my shortlist for designs to argue for, but I think in the end I'll go with the green puzzle piece or broken image thumbnail.</p>
+            <p><a href="https://explainxkcd.com/1969/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2812/</guid>
-      <pubDate>Mon, 07 Aug 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1969/</guid>
+      <pubDate>Mon, 19 Mar 2018 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
