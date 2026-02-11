@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 19 Mar 2018 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Feb 2013 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1969] Not Available</title>
-      <link>https://xkcd.com/1969/</link>
+      <title>[1175] Moving Sidewalks</title>
+      <link>https://xkcd.com/1175/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/not_available.png">
-              <img src="https://imgs.xkcd.com/comics/not_available.png" alt="If my country ever picks a new national flag, this is on my shortlist for designs to argue for, but I think in the end I'll go with the green puzzle piece or broken image thumbnail." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/moving_sidewalks.png">
+              <img src="https://imgs.xkcd.com/comics/moving_sidewalks.png" alt="I think I could spend hours just stepping on and off of conveyor belts moving at various speeds." style="height: auto;" />
             </a>
-            <p>If my country ever picks a new national flag, this is on my shortlist for designs to argue for, but I think in the end I'll go with the green puzzle piece or broken image thumbnail.</p>
-            <p><a href="https://explainxkcd.com/1969/">Explanation</a></p>
+            <p>I think I could spend hours just stepping on and off of conveyor belts moving at various speeds.</p>
+            <p><a href="https://explainxkcd.com/1175/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1969/</guid>
-      <pubDate>Mon, 19 Mar 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1175/</guid>
+      <pubDate>Mon, 18 Feb 2013 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
