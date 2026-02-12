@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 18 Feb 2013 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2020 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1175] Moving Sidewalks</title>
-      <link>https://xkcd.com/1175/</link>
+      <title>[2259] Networking Problems</title>
+      <link>https://xkcd.com/2259/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/moving_sidewalks.png">
-              <img src="https://imgs.xkcd.com/comics/moving_sidewalks.png" alt="I think I could spend hours just stepping on and off of conveyor belts moving at various speeds." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/networking_problems.png">
+              <img src="https://imgs.xkcd.com/comics/networking_problems.png" alt="LOOK, THE LATENCY FALLS EVERY TIME YOU CLAP YOUR HANDS AND SAY YOU BELIEVE" style="height: auto;" />
             </a>
-            <p>I think I could spend hours just stepping on and off of conveyor belts moving at various speeds.</p>
-            <p><a href="https://explainxkcd.com/1175/">Explanation</a></p>
+            <p>LOOK, THE LATENCY FALLS EVERY TIME YOU CLAP YOUR HANDS AND SAY YOU BELIEVE</p>
+            <p><a href="https://explainxkcd.com/2259/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1175/</guid>
-      <pubDate>Mon, 18 Feb 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2259/</guid>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
