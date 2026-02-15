@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 11 Feb 2019 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jul 2008 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2110] Error Bars</title>
-      <link>https://xkcd.com/2110/</link>
+      <title>[448] Good Morning</title>
+      <link>https://xkcd.com/448/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/error_bars.png">
-              <img src="https://imgs.xkcd.com/comics/error_bars.png" alt="...an effect size of 1.68 (95% CI: 1.56 (95% CI: 1.52 (95% CI: 1.504 (95% CI: 1.494 (95% CI: 1.488 (95% CI: 1.485 (95% CI: 1.482 (95% CI: 1.481 (95% CI: 1.4799 (95% CI: 1.4791 (95% CI: 1.4784..." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/good_morning.png">
+              <img src="https://imgs.xkcd.com/comics/good_morning.png" alt="As my standard, I use going to sleep at midnight and waking up at 8 AM." style="height: auto;" />
             </a>
-            <p>...an effect size of 1.68 (95% CI: 1.56 (95% CI: 1.52 (95% CI: 1.504 (95% CI: 1.494 (95% CI: 1.488 (95% CI: 1.485 (95% CI: 1.482 (95% CI: 1.481 (95% CI: 1.4799 (95% CI: 1.4791 (95% CI: 1.4784...</p>
-            <p><a href="https://explainxkcd.com/2110/">Explanation</a></p>
+            <p>As my standard, I use going to sleep at midnight and waking up at 8 AM.</p>
+            <p><a href="https://explainxkcd.com/448/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2110/</guid>
-      <pubDate>Mon, 11 Feb 2019 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/448/</guid>
+      <pubDate>Fri, 11 Jul 2008 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
