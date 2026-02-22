@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 17 May 2021 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Nov 2010 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2464] Muller's Ratchet</title>
-      <link>https://xkcd.com/2464/</link>
+      <title>[815] Mu</title>
+      <link>https://xkcd.com/815/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/mullers_ratchet.png">
-              <img src="https://imgs.xkcd.com/comics/mullers_ratchet.png" alt="Who knew you could learn so much about sexual reproduction from looking at pictures on the internet!" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/mu.png">
+              <img src="https://imgs.xkcd.com/comics/mu.png" alt="As the CoKF approaches 0, productivity goes negative as you pull OTHER people into chair-spinning contests." style="height: auto;" />
             </a>
-            <p>Who knew you could learn so much about sexual reproduction from looking at pictures on the internet!</p>
-            <p><a href="https://explainxkcd.com/2464/">Explanation</a></p>
+            <p>As the CoKF approaches 0, productivity goes negative as you pull OTHER people into chair-spinning contests.</p>
+            <p><a href="https://explainxkcd.com/815/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2464/</guid>
-      <pubDate>Mon, 17 May 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/815/</guid>
+      <pubDate>Fri, 05 Nov 2010 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
