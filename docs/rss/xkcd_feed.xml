@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 05 Nov 2010 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Apr 2010 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[815] Mu</title>
-      <link>https://xkcd.com/815/</link>
+      <title>[727] Trade Expert</title>
+      <link>https://xkcd.com/727/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/mu.png">
-              <img src="https://imgs.xkcd.com/comics/mu.png" alt="As the CoKF approaches 0, productivity goes negative as you pull OTHER people into chair-spinning contests." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/trade_expert.png">
+              <img src="https://imgs.xkcd.com/comics/trade_expert.png" alt="I mean, it's been almost twenty years. Now, it's possible you're simply embedding Windows directory paths in your URIs, but in that case you need more than just a short lecture." style="height: auto;" />
             </a>
-            <p>As the CoKF approaches 0, productivity goes negative as you pull OTHER people into chair-spinning contests.</p>
-            <p><a href="https://explainxkcd.com/815/">Explanation</a></p>
+            <p>I mean, it's been almost twenty years. Now, it's possible you're simply embedding Windows directory paths in your URIs, but in that case you need more than just a short lecture.</p>
+            <p><a href="https://explainxkcd.com/727/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/815/</guid>
-      <pubDate>Fri, 05 Nov 2010 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/727/</guid>
+      <pubDate>Wed, 14 Apr 2010 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
