@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 18 Jun 2021 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Oct 2007 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2478] Alien Visitors 2</title>
-      <link>https://xkcd.com/2478/</link>
+      <title>[326] Effect an Effect</title>
+      <link>https://xkcd.com/326/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/alien_visitors_2.png">
-              <img src="https://imgs.xkcd.com/comics/alien_visitors_2.png" alt=""Although fresh juice DOES sound--" "NO! For humanity to survive we must learn from the mistakes of the past."" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/effect_an_effect.png">
+              <img src="https://imgs.xkcd.com/comics/effect_an_effect.png" alt="Time to paint another grammarian silhouette on the side of the desktop." style="height: auto;" />
             </a>
-            <p>"Although fresh juice DOES sound--" "NO! For humanity to survive we must learn from the mistakes of the past."</p>
-            <p><a href="https://explainxkcd.com/2478/">Explanation</a></p>
+            <p>Time to paint another grammarian silhouette on the side of the desktop.</p>
+            <p><a href="https://explainxkcd.com/326/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2478/</guid>
-      <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/326/</guid>
+      <pubDate>Mon, 08 Oct 2007 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
