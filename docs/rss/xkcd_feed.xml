@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 27 Jan 2023 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Feb 2012 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2730] Code Lifespan</title>
-      <link>https://xkcd.com/2730/</link>
+      <title>[1020] Orion Nebula</title>
+      <link>https://xkcd.com/1020/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/code_lifespan.png">
-              <img src="https://imgs.xkcd.com/comics/code_lifespan.png" alt="Surely (no one/everyone) will (recognize how flexible and useful this architecture is/spend a huge amount of effort painstakingly preserving and updating this garbage I wrote in 20 minutes)" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/orion_nebula.png">
+              <img src="https://imgs.xkcd.com/comics/orion_nebula.png" alt="Also on the agenda: what's with his hips?" style="height: auto;" />
             </a>
-            <p>Surely (no one/everyone) will (recognize how flexible and useful this architecture is/spend a huge amount of effort painstakingly preserving and updating this garbage I wrote in 20 minutes)</p>
-            <p><a href="https://explainxkcd.com/2730/">Explanation</a></p>
+            <p>Also on the agenda: what's with his hips?</p>
+            <p><a href="https://explainxkcd.com/1020/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2730/</guid>
-      <pubDate>Fri, 27 Jan 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1020/</guid>
+      <pubDate>Wed, 22 Feb 2012 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
