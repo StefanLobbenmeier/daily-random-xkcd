@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 29 Apr 2011 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Apr 2010 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[892] Null Hypothesis</title>
-      <link>https://xkcd.com/892/</link>
+      <title>[730] Circuit Diagram</title>
+      <link>https://xkcd.com/730/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/null_hypothesis.png">
-              <img src="https://imgs.xkcd.com/comics/null_hypothesis.png" alt="Hell, my eighth grade science class managed to conclusively reject it just based on a classroom experiment. It's pretty sad to hear about million-dollar research teams who can't even manage that." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/circuit_diagram.png">
+              <img src="https://imgs.xkcd.com/comics/circuit_diagram.png" alt="I just caught myself idly trying to work out what that resistor mass would actually be, and realized I had self-nerd-sniped." style="height: auto;" />
             </a>
-            <p>Hell, my eighth grade science class managed to conclusively reject it just based on a classroom experiment. It's pretty sad to hear about million-dollar research teams who can't even manage that.</p>
-            <p><a href="https://explainxkcd.com/892/">Explanation</a></p>
+            <p>I just caught myself idly trying to work out what that resistor mass would actually be, and realized I had self-nerd-sniped.</p>
+            <p><a href="https://explainxkcd.com/730/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/892/</guid>
-      <pubDate>Fri, 29 Apr 2011 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/730/</guid>
+      <pubDate>Wed, 21 Apr 2010 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
