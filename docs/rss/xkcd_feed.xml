@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 23 Apr 2012 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Dec 2012 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1046] Skynet</title>
-      <link>https://xkcd.com/1046/</link>
+      <title>[1147] Evolving</title>
+      <link>https://xkcd.com/1147/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/skynet.png">
-              <img src="https://imgs.xkcd.com/comics/skynet.png" alt="'YOUR CLOTHES. GIVE THEM TO ME.' 'Shit, uh ... you are now breathing manually!' 'I AM ALWAYS BREATHING MANUALLY.'" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/evolving.png">
+              <img src="https://imgs.xkcd.com/comics/evolving.png" alt="Biologists play reverse Pokémon, trying to avoid putting any one team member on the front lines long enough for the experience to cause evolution." style="height: auto;" />
             </a>
-            <p>'YOUR CLOTHES. GIVE THEM TO ME.' 'Shit, uh ... you are now breathing manually!' 'I AM ALWAYS BREATHING MANUALLY.'</p>
-            <p><a href="https://explainxkcd.com/1046/">Explanation</a></p>
+            <p>Biologists play reverse Pokémon, trying to avoid putting any one team member on the front lines long enough for the experience to cause evolution.</p>
+            <p><a href="https://explainxkcd.com/1147/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1046/</guid>
-      <pubDate>Mon, 23 Apr 2012 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1147/</guid>
+      <pubDate>Fri, 14 Dec 2012 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
