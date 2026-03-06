@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 14 Dec 2012 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Aug 2006 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1147] Evolving</title>
-      <link>https://xkcd.com/1147/</link>
+      <title>[138] Pointers</title>
+      <link>https://xkcd.com/138/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/evolving.png">
-              <img src="https://imgs.xkcd.com/comics/evolving.png" alt="Biologists play reverse Pokémon, trying to avoid putting any one team member on the front lines long enough for the experience to cause evolution." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/pointers.png">
+              <img src="https://imgs.xkcd.com/comics/pointers.png" alt="Every computer, at the unreachable memory address 0x-1, stores a secret.  I found it, and it is that all humans ar-- SEGMENTATION FAULT." style="height: auto;" />
             </a>
-            <p>Biologists play reverse Pokémon, trying to avoid putting any one team member on the front lines long enough for the experience to cause evolution.</p>
-            <p><a href="https://explainxkcd.com/1147/">Explanation</a></p>
+            <p>Every computer, at the unreachable memory address 0x-1, stores a secret.  I found it, and it is that all humans ar-- SEGMENTATION FAULT.</p>
+            <p><a href="https://explainxkcd.com/138/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1147/</guid>
-      <pubDate>Fri, 14 Dec 2012 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/138/</guid>
+      <pubDate>Mon, 07 Aug 2006 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
