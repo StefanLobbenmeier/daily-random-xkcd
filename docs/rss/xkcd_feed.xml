@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 07 Aug 2006 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2006 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[138] Pointers</title>
-      <link>https://xkcd.com/138/</link>
+      <title>[2] Petit Trees (sketch)</title>
+      <link>https://xkcd.com/2/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/pointers.png">
-              <img src="https://imgs.xkcd.com/comics/pointers.png" alt="Every computer, at the unreachable memory address 0x-1, stores a secret.  I found it, and it is that all humans ar-- SEGMENTATION FAULT." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/tree_cropped_(1).jpg">
+              <img src="https://imgs.xkcd.com/comics/tree_cropped_(1).jpg" alt="'Petit' being a reference to Le Petit Prince, which I only thought about halfway through the sketch" style="height: auto;" />
             </a>
-            <p>Every computer, at the unreachable memory address 0x-1, stores a secret.  I found it, and it is that all humans ar-- SEGMENTATION FAULT.</p>
-            <p><a href="https://explainxkcd.com/138/">Explanation</a></p>
+            <p>'Petit' being a reference to Le Petit Prince, which I only thought about halfway through the sketch</p>
+            <p><a href="https://explainxkcd.com/2/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/138/</guid>
-      <pubDate>Mon, 07 Aug 2006 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2/</guid>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
