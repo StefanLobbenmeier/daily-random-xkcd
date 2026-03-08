@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Sun, 01 Jan 2006 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jun 2021 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2] Petit Trees (sketch)</title>
-      <link>https://xkcd.com/2/</link>
+      <title>[2471] Hippo Attacks</title>
+      <link>https://xkcd.com/2471/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/tree_cropped_(1).jpg">
-              <img src="https://imgs.xkcd.com/comics/tree_cropped_(1).jpg" alt="'Petit' being a reference to Le Petit Prince, which I only thought about halfway through the sketch" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/hippo_attacks.png">
+              <img src="https://imgs.xkcd.com/comics/hippo_attacks.png" alt="It's cool how, when there's a number lots of people are curious about, but which isn't easy to measure, some random guess will get cited everywhere and become the universally quoted value. Unrelatedly, did you know there are 850 trillion waves in the ocean?" style="height: auto;" />
             </a>
-            <p>'Petit' being a reference to Le Petit Prince, which I only thought about halfway through the sketch</p>
-            <p><a href="https://explainxkcd.com/2/">Explanation</a></p>
+            <p>It's cool how, when there's a number lots of people are curious about, but which isn't easy to measure, some random guess will get cited everywhere and become the universally quoted value. Unrelatedly, did you know there are 850 trillion waves in the ocean?</p>
+            <p><a href="https://explainxkcd.com/2471/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2/</guid>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2471/</guid>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
