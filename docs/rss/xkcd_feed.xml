@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 02 Jun 2021 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Jan 2021 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2471] Hippo Attacks</title>
-      <link>https://xkcd.com/2471/</link>
+      <title>[2409] Steepen the Curve</title>
+      <link>https://xkcd.com/2409/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/hippo_attacks.png">
-              <img src="https://imgs.xkcd.com/comics/hippo_attacks.png" alt="It's cool how, when there's a number lots of people are curious about, but which isn't easy to measure, some random guess will get cited everywhere and become the universally quoted value. Unrelatedly, did you know there are 850 trillion waves in the ocean?" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/steepen_the_curve.png">
+              <img src="https://imgs.xkcd.com/comics/steepen_the_curve.png" alt="1. Flatten the curve. 2. Steepen the curve. 3. Hang out." style="height: auto;" />
             </a>
-            <p>It's cool how, when there's a number lots of people are curious about, but which isn't easy to measure, some random guess will get cited everywhere and become the universally quoted value. Unrelatedly, did you know there are 850 trillion waves in the ocean?</p>
-            <p><a href="https://explainxkcd.com/2471/">Explanation</a></p>
+            <p>1. Flatten the curve. 2. Steepen the curve. 3. Hang out.</p>
+            <p><a href="https://explainxkcd.com/2409/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2471/</guid>
-      <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2409/</guid>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
