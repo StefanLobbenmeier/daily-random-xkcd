@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 06 Mar 2009 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2008 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[552] Correlation</title>
-      <link>https://xkcd.com/552/</link>
+      <title>[492] Scrabble</title>
+      <link>https://xkcd.com/492/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/correlation.png">
-              <img src="https://imgs.xkcd.com/comics/correlation.png" alt="Correlation doesn't imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing 'look over there'." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/scrabble.png">
+              <img src="https://imgs.xkcd.com/comics/scrabble.png" alt="A veteran Scrabble player will spot the 'OSTRICH' option." style="height: auto;" />
             </a>
-            <p>Correlation doesn't imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing 'look over there'.</p>
-            <p><a href="https://explainxkcd.com/552/">Explanation</a></p>
+            <p>A veteran Scrabble player will spot the 'OSTRICH' option.</p>
+            <p><a href="https://explainxkcd.com/492/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/552/</guid>
-      <pubDate>Fri, 06 Mar 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/492/</guid>
+      <pubDate>Wed, 22 Oct 2008 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
