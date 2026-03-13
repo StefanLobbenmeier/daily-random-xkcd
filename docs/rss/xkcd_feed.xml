@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 07 Apr 2008 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2013 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[407] Cheap GPS</title>
-      <link>https://xkcd.com/407/</link>
+      <title>[1310] Goldbach Conjectures</title>
+      <link>https://xkcd.com/1310/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/cheap_gps.png">
-              <img src="https://imgs.xkcd.com/comics/cheap_gps.png" alt="In lieu of mapping software, I once wrote a Perl program which, given a USB GPS receiver and a destination, printed 'LEFT' 'RIGHT' OR 'STRAIGHT' based on my heading." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/goldbach_conjectures.png">
+              <img src="https://imgs.xkcd.com/comics/goldbach_conjectures.png" alt="The weak twin primes conjecture states that there are infinitely many pairs of primes. The strong twin primes conjecture states that every prime p has a twin prime (p+2), although (p+2) may not look prime at first. The tautological prime conjecture states that the tautological prime conjecture is true." style="height: auto;" />
             </a>
-            <p>In lieu of mapping software, I once wrote a Perl program which, given a USB GPS receiver and a destination, printed 'LEFT' 'RIGHT' OR 'STRAIGHT' based on my heading.</p>
-            <p><a href="https://explainxkcd.com/407/">Explanation</a></p>
+            <p>The weak twin primes conjecture states that there are infinitely many pairs of primes. The strong twin primes conjecture states that every prime p has a twin prime (p+2), although (p+2) may not look prime at first. The tautological prime conjecture states that the tautological prime conjecture is true.</p>
+            <p><a href="https://explainxkcd.com/1310/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/407/</guid>
-      <pubDate>Mon, 07 Apr 2008 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1310/</guid>
+      <pubDate>Mon, 30 Dec 2013 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
