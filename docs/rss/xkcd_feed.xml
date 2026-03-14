@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 30 Dec 2013 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 May 2010 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1310] Goldbach Conjectures</title>
-      <link>https://xkcd.com/1310/</link>
+      <title>[744] Walkthrough</title>
+      <link>https://xkcd.com/744/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/goldbach_conjectures.png">
-              <img src="https://imgs.xkcd.com/comics/goldbach_conjectures.png" alt="The weak twin primes conjecture states that there are infinitely many pairs of primes. The strong twin primes conjecture states that every prime p has a twin prime (p+2), although (p+2) may not look prime at first. The tautological prime conjecture states that the tautological prime conjecture is true." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/walkthrough.png">
+              <img src="https://imgs.xkcd.com/comics/walkthrough.png" alt="There's nothing hotter than porn dubbed over with a poorly-mic'd teenager's voice explaining each step in a droning monotone. 'okay, we're almost at the spawn point ... separate the labia, but watch out, there are more inside them ..."" style="height: auto;" />
             </a>
-            <p>The weak twin primes conjecture states that there are infinitely many pairs of primes. The strong twin primes conjecture states that every prime p has a twin prime (p+2), although (p+2) may not look prime at first. The tautological prime conjecture states that the tautological prime conjecture is true.</p>
-            <p><a href="https://explainxkcd.com/1310/">Explanation</a></p>
+            <p>There's nothing hotter than porn dubbed over with a poorly-mic'd teenager's voice explaining each step in a droning monotone. 'okay, we're almost at the spawn point ... separate the labia, but watch out, there are more inside them ..."</p>
+            <p><a href="https://explainxkcd.com/744/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1310/</guid>
-      <pubDate>Mon, 30 Dec 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/744/</guid>
+      <pubDate>Mon, 24 May 2010 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
