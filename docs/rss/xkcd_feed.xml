@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 24 May 2010 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Dec 2006 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[744] Walkthrough</title>
-      <link>https://xkcd.com/744/</link>
+      <title>[195] Map of the Internet</title>
+      <link>https://xkcd.com/195/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/walkthrough.png">
-              <img src="https://imgs.xkcd.com/comics/walkthrough.png" alt="There's nothing hotter than porn dubbed over with a poorly-mic'd teenager's voice explaining each step in a droning monotone. 'okay, we're almost at the spawn point ... separate the labia, but watch out, there are more inside them ..."" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/map_of_the_internet.jpg">
+              <img src="https://imgs.xkcd.com/comics/map_of_the_internet.jpg" alt="For the IPv6 map just imagine the XP default desktop picture." style="height: auto;" />
             </a>
-            <p>There's nothing hotter than porn dubbed over with a poorly-mic'd teenager's voice explaining each step in a droning monotone. 'okay, we're almost at the spawn point ... separate the labia, but watch out, there are more inside them ..."</p>
-            <p><a href="https://explainxkcd.com/744/">Explanation</a></p>
+            <p>For the IPv6 map just imagine the XP default desktop picture.</p>
+            <p><a href="https://explainxkcd.com/195/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/744/</guid>
-      <pubDate>Mon, 24 May 2010 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/195/</guid>
+      <pubDate>Mon, 11 Dec 2006 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
