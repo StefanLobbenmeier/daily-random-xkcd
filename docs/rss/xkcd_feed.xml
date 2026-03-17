@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Mar 2010 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2414] Solar System Compression Artifacts</title>
-      <link>https://xkcd.com/2414/</link>
+      <title>[714] Porn For Women</title>
+      <link>https://xkcd.com/714/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/solar_system_compression_artifacts.png">
-              <img src="https://imgs.xkcd.com/comics/solar_system_compression_artifacts.png" alt="Most of our universe consists of dark matter rendered completely undetectable by our spacetime codec's dynamic range issues." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/porn_for_women.png">
+              <img src="https://imgs.xkcd.com/comics/porn_for_women.png" alt="Yes, there are a lot of longing looks across the bridge of Galactica first, but that's beside the point!" style="height: auto;" />
             </a>
-            <p>Most of our universe consists of dark matter rendered completely undetectable by our spacetime codec's dynamic range issues.</p>
-            <p><a href="https://explainxkcd.com/2414/">Explanation</a></p>
+            <p>Yes, there are a lot of longing looks across the bridge of Galactica first, but that's beside the point!</p>
+            <p><a href="https://explainxkcd.com/714/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2414/</guid>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/714/</guid>
+      <pubDate>Mon, 15 Mar 2010 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
