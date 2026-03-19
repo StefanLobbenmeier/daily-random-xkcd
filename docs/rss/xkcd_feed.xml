@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 11 Nov 2024 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2015 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[3010] Geometriphylogenetics</title>
-      <link>https://xkcd.com/3010/</link>
+      <title>[1561] Water Phase Diagram</title>
+      <link>https://xkcd.com/1561/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/geometriphylogenetics.png">
-              <img src="https://imgs.xkcd.com/comics/geometriphylogenetics.png" alt="There's a maximum likelihood that I'm doing phylogenetics wrong." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/water_phase_diagram.png">
+              <img src="https://imgs.xkcd.com/comics/water_phase_diagram.png" alt="Vanilla Ice was produced in small quantities for years, but it wasn't until the 90s that experimenters collaborated to produce a sample that could survive at room temperature for several months. " style="height: auto;" />
             </a>
-            <p>There's a maximum likelihood that I'm doing phylogenetics wrong.</p>
-            <p><a href="https://explainxkcd.com/3010/">Explanation</a></p>
+            <p>Vanilla Ice was produced in small quantities for years, but it wasn't until the 90s that experimenters collaborated to produce a sample that could survive at room temperature for several months. </p>
+            <p><a href="https://explainxkcd.com/1561/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/3010/</guid>
-      <pubDate>Mon, 11 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1561/</guid>
+      <pubDate>Fri, 07 Aug 2015 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
