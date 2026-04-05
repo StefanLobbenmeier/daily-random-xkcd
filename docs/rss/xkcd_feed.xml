@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 06 Apr 2020 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2009 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2290] Homemade Masks</title>
-      <link>https://xkcd.com/2290/</link>
+      <title>[563] Fermirotica</title>
+      <link>https://xkcd.com/563/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/homemade_masks.png">
-              <img src="https://imgs.xkcd.com/comics/homemade_masks.png" alt="I'm going to change the sign so the pole is horizontal and the sign is mounted on the front like a plunger, so I can carry it around like a lance to gently push people back if they try to approach." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/fermirotica.png">
+              <img src="https://imgs.xkcd.com/comics/fermirotica.png" alt="I love how Google handles dimensional analysis.  Stats are ballpark and vary wildly by time of day and whether your mom is in town." style="height: auto;" />
             </a>
-            <p>I'm going to change the sign so the pole is horizontal and the sign is mounted on the front like a plunger, so I can carry it around like a lance to gently push people back if they try to approach.</p>
-            <p><a href="https://explainxkcd.com/2290/">Explanation</a></p>
+            <p>I love how Google handles dimensional analysis.  Stats are ballpark and vary wildly by time of day and whether your mom is in town.</p>
+            <p><a href="https://explainxkcd.com/563/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2290/</guid>
-      <pubDate>Mon, 06 Apr 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/563/</guid>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
