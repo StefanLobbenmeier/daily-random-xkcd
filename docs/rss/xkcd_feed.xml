@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 01 Apr 2009 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2006 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[563] Fermirotica</title>
-      <link>https://xkcd.com/563/</link>
+      <title>[41] Old Drawing</title>
+      <link>https://xkcd.com/41/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/fermirotica.png">
-              <img src="https://imgs.xkcd.com/comics/fermirotica.png" alt="I love how Google handles dimensional analysis.  Stats are ballpark and vary wildly by time of day and whether your mom is in town." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/unspeakable_pun.jpg">
+              <img src="https://imgs.xkcd.com/comics/unspeakable_pun.jpg" alt="I don't want to talk about it" style="height: auto;" />
             </a>
-            <p>I love how Google handles dimensional analysis.  Stats are ballpark and vary wildly by time of day and whether your mom is in town.</p>
-            <p><a href="https://explainxkcd.com/563/">Explanation</a></p>
+            <p>I don't want to talk about it</p>
+            <p><a href="https://explainxkcd.com/41/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/563/</guid>
-      <pubDate>Wed, 01 Apr 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/41/</guid>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
