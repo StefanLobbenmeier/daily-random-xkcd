@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 19 Feb 2010 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Oct 2018 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[704] Principle of Explosion</title>
-      <link>https://xkcd.com/704/</link>
+      <title>[2056] Horror Movies</title>
+      <link>https://xkcd.com/2056/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/principle_of_explosion.png">
-              <img src="https://imgs.xkcd.com/comics/principle_of_explosion.png" alt="You want me to pick up waffle cones? Oh, right, for the wine. One sec, let me just derive your son's credit card number and I'll be on my way." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/horror_movies.png">
+              <img src="https://imgs.xkcd.com/comics/horror_movies.png" alt=""Isn't the original Jurassic Park your favorite movie of all time?" "Yes, but that's because I like dinosaurs and I WANT there to be an island full of them. If John Hammond's lab had been breeding serial killers in creepy masks, I wouldn't have watched!" "Wait, are you sure? That could actually be good." "Ok, I WOULD watch the scenes where Jeff Goldblum tries to convince a bunch of executives that the park is a bad idea."" style="height: auto;" />
             </a>
-            <p>You want me to pick up waffle cones? Oh, right, for the wine. One sec, let me just derive your son's credit card number and I'll be on my way.</p>
-            <p><a href="https://explainxkcd.com/704/">Explanation</a></p>
+            <p>"Isn't the original Jurassic Park your favorite movie of all time?" "Yes, but that's because I like dinosaurs and I WANT there to be an island full of them. If John Hammond's lab had been breeding serial killers in creepy masks, I wouldn't have watched!" "Wait, are you sure? That could actually be good." "Ok, I WOULD watch the scenes where Jeff Goldblum tries to convince a bunch of executives that the park is a bad idea."</p>
+            <p><a href="https://explainxkcd.com/2056/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/704/</guid>
-      <pubDate>Fri, 19 Feb 2010 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2056/</guid>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
