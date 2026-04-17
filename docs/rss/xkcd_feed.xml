@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 12 Jul 2024 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2015 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2958] Hatchery</title>
-      <link>https://xkcd.com/2958/</link>
+      <title>[1538] Lyrics</title>
+      <link>https://xkcd.com/1538/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/hatchery.png">
-              <img src="https://imgs.xkcd.com/comics/hatchery.png" alt="Anadromous fish are more vulnerable in rivers, since the lack of salt means you can quickly crack passwords using rainbow trout tables." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/lyrics.png">
+              <img src="https://imgs.xkcd.com/comics/lyrics.png" alt="To me, trying to understand song lyrics feels like when I see text in a dream but it𝔰 hอᵣd t₀ ᵣeₐd aกd 𝒾 canٖt fཱྀcu༧༦࿐༄" style="height: auto;" />
             </a>
-            <p>Anadromous fish are more vulnerable in rivers, since the lack of salt means you can quickly crack passwords using rainbow trout tables.</p>
-            <p><a href="https://explainxkcd.com/2958/">Explanation</a></p>
+            <p>To me, trying to understand song lyrics feels like when I see text in a dream but it𝔰 hอᵣd t₀ ᵣeₐd aกd 𝒾 canٖt fཱྀcu༧༦࿐༄</p>
+            <p><a href="https://explainxkcd.com/1538/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2958/</guid>
-      <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1538/</guid>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
