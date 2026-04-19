@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 21 Jan 2009 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Nov 2023 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[533] Laptop Hell</title>
-      <link>https://xkcd.com/533/</link>
+      <title>[2860] Decay Modes</title>
+      <link>https://xkcd.com/2860/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/laptop_hell.png">
-              <img src="https://imgs.xkcd.com/comics/laptop_hell.png" alt="The xkcd.com sysadmin has a Q2010, and I can attest that it can handle a fall down several flight of concrete steps.  Relatedly, he's upset with me -- I hope he doesn't take revenge by messing with my site's contenDISREGARD THAT I SUCK COCKS" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/decay_modes.png">
+              <img src="https://imgs.xkcd.com/comics/decay_modes.png" alt="Unlike an Iron Age collapse, a Bronze Age collapse releases energy, since copper and tin are past the iron peak on the curve of binding energy." style="height: auto;" />
             </a>
-            <p>The xkcd.com sysadmin has a Q2010, and I can attest that it can handle a fall down several flight of concrete steps.  Relatedly, he's upset with me -- I hope he doesn't take revenge by messing with my site's contenDISREGARD THAT I SUCK COCKS</p>
-            <p><a href="https://explainxkcd.com/533/">Explanation</a></p>
+            <p>Unlike an Iron Age collapse, a Bronze Age collapse releases energy, since copper and tin are past the iron peak on the curve of binding energy.</p>
+            <p><a href="https://explainxkcd.com/2860/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/533/</guid>
-      <pubDate>Wed, 21 Jan 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2860/</guid>
+      <pubDate>Mon, 27 Nov 2023 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
