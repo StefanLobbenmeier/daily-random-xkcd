@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 15 Feb 2013 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Dec 2010 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1174] App</title>
-      <link>https://xkcd.com/1174/</link>
+      <title>[828] Positive Attitude</title>
+      <link>https://xkcd.com/828/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/app.png">
-              <img src="https://imgs.xkcd.com/comics/app.png" alt="If I click 'no', I've probably given up on everything, so don't bother taking me to the page I was trying to go to. Just drop me on the homepage. Thanks." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/positive_attitude.png">
+              <img src="https://imgs.xkcd.com/comics/positive_attitude.png" alt="Having a positive attitude is almost tautologically good for your mental health, and extreme stress can hurt your immune system, but that doesn't mean you should feel like shit for feeling like shit." style="height: auto;" />
             </a>
-            <p>If I click 'no', I've probably given up on everything, so don't bother taking me to the page I was trying to go to. Just drop me on the homepage. Thanks.</p>
-            <p><a href="https://explainxkcd.com/1174/">Explanation</a></p>
+            <p>Having a positive attitude is almost tautologically good for your mental health, and extreme stress can hurt your immune system, but that doesn't mean you should feel like shit for feeling like shit.</p>
+            <p><a href="https://explainxkcd.com/828/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1174/</guid>
-      <pubDate>Fri, 15 Feb 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/828/</guid>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
