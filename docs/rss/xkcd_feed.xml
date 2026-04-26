@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 21 Dec 2020 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Dec 2018 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2401] Conjunction</title>
-      <link>https://xkcd.com/2401/</link>
+      <title>[2092] Consensus New Year</title>
+      <link>https://xkcd.com/2092/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/conjunction.png">
-              <img src="https://imgs.xkcd.com/comics/conjunction.png" alt="The IAU is sad to announce that at 00:39 UTC on December 22nd, Jupiter and Saturn did unfortunately come into contact, and appear to have blooped together." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/consensus_new_year.png">
+              <img src="https://imgs.xkcd.com/comics/consensus_new_year.png" alt="The biggest jump is at 11:00am EST (4:00pm UTC) when midnight reaches the UTC+8 time zone. That time zone, which includes China, is home to a quarter of the world's population. India and Sri Lanka (UTC+5:30) put us over the 50% mark soon after." style="height: auto;" />
             </a>
-            <p>The IAU is sad to announce that at 00:39 UTC on December 22nd, Jupiter and Saturn did unfortunately come into contact, and appear to have blooped together.</p>
-            <p><a href="https://explainxkcd.com/2401/">Explanation</a></p>
+            <p>The biggest jump is at 11:00am EST (4:00pm UTC) when midnight reaches the UTC+8 time zone. That time zone, which includes China, is home to a quarter of the world's population. India and Sri Lanka (UTC+5:30) put us over the 50% mark soon after.</p>
+            <p><a href="https://explainxkcd.com/2092/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2401/</guid>
-      <pubDate>Mon, 21 Dec 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2092/</guid>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
