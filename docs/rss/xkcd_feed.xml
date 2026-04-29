@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 15 Mar 2013 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2020 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1186] Bumblebees</title>
-      <link>https://xkcd.com/1186/</link>
+      <title>[2302] 2020 Google Trends</title>
+      <link>https://xkcd.com/2302/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/bumblebees.png">
-              <img src="https://imgs.xkcd.com/comics/bumblebees.png" alt="Did you know sociologists can't explain why people keep repeating that urban legend about bumblebees not being able to fly!?" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/2020_google_trends.png">
+              <img src="https://imgs.xkcd.com/comics/2020_google_trends.png" alt="As the 'exotic animals in homemade aprons hosting baking shows' YouTube craze reached its peak in March 2020, Andrew Cuomo announced he was replacing the Statue of Liberty with a bronze pangolin in a chef's hat." style="height: auto;" />
             </a>
-            <p>Did you know sociologists can't explain why people keep repeating that urban legend about bumblebees not being able to fly!?</p>
-            <p><a href="https://explainxkcd.com/1186/">Explanation</a></p>
+            <p>As the 'exotic animals in homemade aprons hosting baking shows' YouTube craze reached its peak in March 2020, Andrew Cuomo announced he was replacing the Statue of Liberty with a bronze pangolin in a chef's hat.</p>
+            <p><a href="https://explainxkcd.com/2302/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1186/</guid>
-      <pubDate>Fri, 15 Mar 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2302/</guid>
+      <pubDate>Mon, 04 May 2020 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
