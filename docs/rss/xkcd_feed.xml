@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 12 Jun 2024 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2945] Broken Model</title>
-      <link>https://xkcd.com/2945/</link>
+      <title>[3192] Planetary Alignment</title>
+      <link>https://xkcd.com/3192/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/broken_model.png">
-              <img src="https://imgs.xkcd.com/comics/broken_model.png" alt="In addition to eating foxes, rabbits can eat grass. The grass also eats foxes. Our equations chart the contours of Fox Hell." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/planetary_alignment.png">
+              <img src="https://imgs.xkcd.com/comics/planetary_alignment.png" alt="We're going to need to modify the surface to mount it on the test stand. Which ocean basin do you like the least?" style="height: auto;" />
             </a>
-            <p>In addition to eating foxes, rabbits can eat grass. The grass also eats foxes. Our equations chart the contours of Fox Hell.</p>
-            <p><a href="https://explainxkcd.com/2945/">Explanation</a></p>
+            <p>We're going to need to modify the surface to mount it on the test stand. Which ocean basin do you like the least?</p>
+            <p><a href="https://explainxkcd.com/3192/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2945/</guid>
-      <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/3192/</guid>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
