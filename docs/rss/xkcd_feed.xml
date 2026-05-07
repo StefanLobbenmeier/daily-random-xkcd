@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 30 Oct 2006 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Jul 2011 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[177] Alice and Bob</title>
-      <link>https://xkcd.com/177/</link>
+      <title>[920] YouTube Parties</title>
+      <link>https://xkcd.com/920/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/alice_and_bob.png">
-              <img src="https://imgs.xkcd.com/comics/alice_and_bob.png" alt="Yet one more reason I'm barred from speaking at crypto conferences." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/youtube_parties.png">
+              <img src="https://imgs.xkcd.com/comics/youtube_parties.png" alt="This reminds me of that video where ... no? How have you not seen that? Oh man, let me find it. No, it's ok, we can go back to your video later." style="height: auto;" />
             </a>
-            <p>Yet one more reason I'm barred from speaking at crypto conferences.</p>
-            <p><a href="https://explainxkcd.com/177/">Explanation</a></p>
+            <p>This reminds me of that video where ... no? How have you not seen that? Oh man, let me find it. No, it's ok, we can go back to your video later.</p>
+            <p><a href="https://explainxkcd.com/920/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/177/</guid>
-      <pubDate>Mon, 30 Oct 2006 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/920/</guid>
+      <pubDate>Mon, 04 Jul 2011 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
