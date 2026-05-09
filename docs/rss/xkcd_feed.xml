@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 31 Jan 2007 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Sep 2008 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[217] e to the pi Minus pi</title>
-      <link>https://xkcd.com/217/</link>
+      <title>[471] Aversion Fads</title>
+      <link>https://xkcd.com/471/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/e_to_the_pi_minus_pi.png">
-              <img src="https://imgs.xkcd.com/comics/e_to_the_pi_minus_pi.png" alt="Also, I hear the 4th root of (9^2 + 19^2/22) is pi." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/aversion_fads.png">
+              <img src="https://imgs.xkcd.com/comics/aversion_fads.png" alt="Hey, are you friends with any hamsters?  This kite needs a passenger." style="height: auto;" />
             </a>
-            <p>Also, I hear the 4th root of (9^2 + 19^2/22) is pi.</p>
-            <p><a href="https://explainxkcd.com/217/">Explanation</a></p>
+            <p>Hey, are you friends with any hamsters?  This kite needs a passenger.</p>
+            <p><a href="https://explainxkcd.com/471/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/217/</guid>
-      <pubDate>Wed, 31 Jan 2007 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/471/</guid>
+      <pubDate>Wed, 03 Sep 2008 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
