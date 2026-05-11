@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 13 Aug 2008 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jan 2023 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[462] Freemanic Paracusia</title>
-      <link>https://xkcd.com/462/</link>
+      <title>[2722] Etymonline</title>
+      <link>https://xkcd.com/2722/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/freemanic_paracusia.png">
-              <img src="https://imgs.xkcd.com/comics/freemanic_paracusia.png" alt="It's amazing what it does for YouTube comments." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/etymonline.png">
+              <img src="https://imgs.xkcd.com/comics/etymonline.png" alt="NOTE TO FUTURE ETYMONLINGUISTS: Our best guess is that 'blimp' is onomatopoeia. The 'B-Limp' thing is a folk etymology." style="height: auto;" />
             </a>
-            <p>It's amazing what it does for YouTube comments.</p>
-            <p><a href="https://explainxkcd.com/462/">Explanation</a></p>
+            <p>NOTE TO FUTURE ETYMONLINGUISTS: Our best guess is that 'blimp' is onomatopoeia. The 'B-Limp' thing is a folk etymology.</p>
+            <p><a href="https://explainxkcd.com/2722/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/462/</guid>
-      <pubDate>Wed, 13 Aug 2008 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2722/</guid>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
