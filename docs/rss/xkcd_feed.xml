@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 09 Jan 2023 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Apr 2006 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2722] Etymonline</title>
-      <link>https://xkcd.com/2722/</link>
+      <title>[92] Sunrise</title>
+      <link>https://xkcd.com/92/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/etymonline.png">
-              <img src="https://imgs.xkcd.com/comics/etymonline.png" alt="NOTE TO FUTURE ETYMONLINGUISTS: Our best guess is that 'blimp' is onomatopoeia. The 'B-Limp' thing is a folk etymology." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/sunrise.jpg">
+              <img src="https://imgs.xkcd.com/comics/sunrise.jpg" alt="Sometimes, I sit on top of parking decks and watch the sun rise.  I feel like I should have a guitar or something." style="height: auto;" />
             </a>
-            <p>NOTE TO FUTURE ETYMONLINGUISTS: Our best guess is that 'blimp' is onomatopoeia. The 'B-Limp' thing is a folk etymology.</p>
-            <p><a href="https://explainxkcd.com/2722/">Explanation</a></p>
+            <p>Sometimes, I sit on top of parking decks and watch the sun rise.  I feel like I should have a guitar or something.</p>
+            <p><a href="https://explainxkcd.com/92/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2722/</guid>
-      <pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/92/</guid>
+      <pubDate>Fri, 21 Apr 2006 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
