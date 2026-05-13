@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 21 Apr 2006 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2015 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[92] Sunrise</title>
-      <link>https://xkcd.com/92/</link>
+      <title>[1473] Location Sharing</title>
+      <link>https://xkcd.com/1473/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/sunrise.jpg">
-              <img src="https://imgs.xkcd.com/comics/sunrise.jpg" alt="Sometimes, I sit on top of parking decks and watch the sun rise.  I feel like I should have a guitar or something." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/location_sharing.png">
+              <img src="https://imgs.xkcd.com/comics/location_sharing.png" alt="Our phones must have great angular momentum sensors because the compasses really suck." style="height: auto;" />
             </a>
-            <p>Sometimes, I sit on top of parking decks and watch the sun rise.  I feel like I should have a guitar or something.</p>
-            <p><a href="https://explainxkcd.com/92/">Explanation</a></p>
+            <p>Our phones must have great angular momentum sensors because the compasses really suck.</p>
+            <p><a href="https://explainxkcd.com/1473/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/92/</guid>
-      <pubDate>Fri, 21 Apr 2006 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1473/</guid>
+      <pubDate>Wed, 14 Jan 2015 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
