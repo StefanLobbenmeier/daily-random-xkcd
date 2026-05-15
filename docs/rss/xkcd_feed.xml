@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 17 May 2006 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Feb 2006 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[103] Moral Relativity</title>
-      <link>https://xkcd.com/103/</link>
+      <title>[58] Why Do You Love Me?</title>
+      <link>https://xkcd.com/58/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/moral_relativity.jpg">
-              <img src="https://imgs.xkcd.com/comics/moral_relativity.jpg" alt="It's science!" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/why_do_you_love_me.jpg">
+              <img src="https://imgs.xkcd.com/comics/why_do_you_love_me.jpg" alt="Opening dialogue by Scott" style="height: auto;" />
             </a>
-            <p>It's science!</p>
-            <p><a href="https://explainxkcd.com/103/">Explanation</a></p>
+            <p>Opening dialogue by Scott</p>
+            <p><a href="https://explainxkcd.com/58/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/103/</guid>
-      <pubDate>Wed, 17 May 2006 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/58/</guid>
+      <pubDate>Wed, 01 Feb 2006 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
